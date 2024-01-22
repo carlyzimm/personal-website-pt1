@@ -33,3 +33,15 @@ nav > a {
   font-size: 1rem;
   color: white;
 }
+
+/* Main Content Styling */
+
+#about-header {
+  font-size: larger;
+  text-align: center;
+}
+
+.about-section {
+  border: 2px solid black;
+  margin-top: 10px;
+}
